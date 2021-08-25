@@ -11,10 +11,10 @@ The project aims to explain and show two different path methods of moving planni
 The main differences on motion curves are shown below.
 
 ## Displacement vs step
-![plot](./res/dis.gif)
+![plot](./res/dis.png)
 
 ## Velocity vs step
-![plot](./res/vel.gif)
+![plot](./res/vel.png)
 
 ## Acceleration vs step
-![plot](./acc.gif)
+![plot](./acc.png)
