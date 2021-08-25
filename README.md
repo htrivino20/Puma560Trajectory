@@ -17,4 +17,4 @@ The main differences on motion curves are shown below.
 ![plot](./res/vel.png)
 
 ## Acceleration vs step
-![plot](./acc.png)
+![plot](./res/acc.png)
