@@ -10,11 +10,20 @@ The project aims to explain and show two different path methods of moving planni
 
 The main differences on motion curves are shown below.
 
-## Displacement vs step
-![plot](./res/dis.png)
+## Displacement vs step (Polynomial and trapezoidal interpolation)
+![plot](./res/pol_tra_dis.png)
 
-## Velocity vs step
-![plot](./res/vel.png)
+## Velocity vs step (Polynomial and trapezoidal interpolation)
+![plot](./res/pol_tra_vel.png)
 
-## Acceleration vs step
-![plot](./res/acc.png)
+## Acceleration vs step (Polynomial and trapezoidal interpolation)
+![plot](./res/pol_tra_acc.png)
+
+## Displacement vs step (Screw linear interpolation)
+![plot](./res/sli_dis.png)
+
+## Velocity vs step (Screw linear interpolation)
+![plot](./res/sli_vel.png)
+
+## Acceleration vs step (Screw linear interpolation)
+![plot](./res/sli_acc.png)
