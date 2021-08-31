@@ -3,7 +3,7 @@
 The project aims to explain and show three different interpolation methods on moving planning to weld a square piece. We used the Puma 560 Manipulator to simulate the motion. The resulting path is shown below.
 
 ## Getting started
-Execute `git clone [URL]` to clone the repository, the dependencies are found on `requeriments.txt` file. You can use the virtual environment you prefer. Then execute `pip install -r requirements.txt` to install all dependencies.
+Execute `git clone [URL]` to clone the repository, the dependencies are found on `requirements.txt` file. You can use the virtual environment you prefer. Then execute `pip install -r requirements.txt` to install all dependencies.
 
 ## Trajectory animation
 
