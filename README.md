@@ -10,9 +10,12 @@ Execute `git clone [URL]` to clone the repository, the dependencies are found on
 3. In case of error related with `python3-venv`, install it with `sudo apt-get install python3-venv`.
 4. Repeat step 2 with `python3 -m venv ./venv`.
 5. To activate it, execute `source ./venv/bin/activate` on root, at the left of terminal you will see `(venv)`, that means that you are using your virtual environment Python interpreter
-6. To check installed dependencies, you can execute `pip list`, and you will check somo default dependencies installed.
+6. To check installed dependencies, you can execute `pip list`, and you will check some default dependencies installed.
 7. Finally, to deactivate your virtual environment you can execute `deactivate`.
-8. To install the dependencies of the currente project execute `pip install -r requirements.txt`.
+8. To install the dependencies of the current project execute `pip install -r requirements.txt`.
+
+You can surely find more info at [venv — Creation of virtual environments](https://docs.python.org/3/library/venv.html#module-venv)
+
 
 ## Trajectory animation
 
