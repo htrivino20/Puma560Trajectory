@@ -1,5 +1,5 @@
 jupyter==1.0.0
-jupyterlab==3.1.18
+jupyterlab==3.2.1
 matplotlib==3.4.3
 roboticstoolbox-python==0.11.0
 spatialmath-python==0.11
